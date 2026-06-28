@@ -30,7 +30,7 @@ else{
     console.log("condition false")
 } */
  //WHILE LOOP
-    let i=1
+  /*  let i=1
     while(i<=10){
         if(i%2==0)
             {
@@ -39,6 +39,24 @@ else{
         }
         i++;
 
-    }
+    }*/
 
     //FOR LOOP
+  //  for(let i=1; i<=10;i++){
+  //      console.log(i);
+  //  }
+
+      //BREAK LOOP
+    /*for(let i=1; i<=10;i++){
+
+        if(i==5)
+            break;
+        console.log(i);
+    } */
+     //CONTINUE LOOP
+    for(let i=1; i<=10;i++){
+
+        if(i==5)
+            continue;
+        console.log(i);
+    }

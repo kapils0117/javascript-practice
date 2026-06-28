@@ -1,4 +1,5 @@
 
+//A function is a reusable block of code designed to perform a specific task.
 
 //Parameterized function with no return
 function add(a1, b1){
